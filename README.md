@@ -75,17 +75,6 @@ License
 
 https://youtu.be/AJjSzEBQZZ0
 
-### Clone
-
-```shell
-$ git clone https://github.com/DeLaSalleUniversity-Manila/MPAndroidChart
-Cloning into 'MPAndroidChart'...
-remote: Counting objects: 15458, done.
-remote: Total 15458 (delta 0), reused 0 (delta 0), pack-reused 15458
-Receiving objects: 100% (15458/15458), 17.27 MiB | 81 KiB/s, done.
-Resolving deltas: 100% (9063/9063), done.
-```
-
 ### To submit
 
 https://classroom.github.com/assignment-invitations/d6c3a7398983fb5948cb2f7ca497591e 
